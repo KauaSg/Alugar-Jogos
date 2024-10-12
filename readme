@@ -1,0 +1,31 @@
+Aluguel de jogos
+Descrição do Projeto
+O é um site de aluguel de jogos de tabuleiro. A interface permite que os usuários visualizem os jogos disponíveis, façam o aluguel e, caso o jogo já esteja alugado, façam a devolução. O projeto é desenvolvido em HTML, CSS e JavaScript, proporcionando uma experiência intuitiva e dinâmica para os usuários.
+
+Funcionalidades
+-- Aluguel de Jogos: Usuários podem alugar jogos de tabuleiro disponíveis na plataforma.
+-- Devolução de Jogos: Quando um jogo já está alugado, a opção de devolução fica disponível.
+-- Interface Interativa: Mudança de status dos jogos em tempo real com efeitos visuais para indicar se o jogo está alugado ou disponível.
+
+Estrutura do Projeto
+-- HTML: Estrutura o conteúdo da página, incluindo a lista de jogos e os botões de interação.
+-- CSS: Define o design responsivo, aplicando um tema escuro com efeitos de gradiente e sombras para destacar os elementos.
+-- JavaScript: Implementa a lógica para alternar entre o status de "Alugar" e "Devolver" dos jogos.
+
+Tecnologias Utilizadas
+-- HTML
+-- CSS
+-- JavaScript
+
+Como Utilizar
+-- Alugar um Jogo:
+Clique no botão "Alugar" para reservar um jogo disponível.
+O status do jogo mudará visualmente, e o botão exibirá "Devolver".
+
+-- Devolver um Jogo:
+Se o jogo estiver alugado, clique no botão "Devolver" para alterar o status e disponibilizá-lo novamente.
+
+Estrutura de Arquivos
+-- index.html: Estrutura principal da página com o layout do site.
+-- css/main.css: Arquivo de estilização, responsável pelo tema e layout.
+-- js/app.js: Arquivo de script para manipulação dos elementos e alteração do status dos jogos.
